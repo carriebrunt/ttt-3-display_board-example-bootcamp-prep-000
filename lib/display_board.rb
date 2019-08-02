@@ -1,2 +1,6 @@
 def display_board
-  puts row = ""
+  puts row = "[   |   |   ]"
+  puts separator = -----------
+  puts row
+  puts separator
+  puts row
