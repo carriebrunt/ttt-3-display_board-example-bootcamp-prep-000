@@ -1,2 +1,2 @@
 display_board = 
-puts 
+puts "  |  |  "
